@@ -1,0 +1,6 @@
+{
+  "name": "El Chaval Gourmet - Hamburguesas & Mechadas",
+  "description": "Carta completa, carrito de compras y pedidos directos a WhatsApp para El Chaval Gourmet (+56982587304).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
